@@ -1,7 +1,7 @@
 # Onlytype
 ## A simple Typing speed Test Game build using React.
 
-## Getting Started
+### Getting Started
 
 ```
 $ git clone ...       # clone this project to your local machine
